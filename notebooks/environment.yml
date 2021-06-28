@@ -1,4 +1,4 @@
-name: rearrangementLatest
+name: PeterCorkeToolbox
 channels:
   - pytorch
   - anaconda
