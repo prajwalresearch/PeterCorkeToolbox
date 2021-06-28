@@ -205,4 +205,3 @@ dependencies:
     - werkzeug==2.0.1
     - widgetsnbextension==3.5.1
     - yarl==1.6.3
-prefix: /home/prajwal18/anaconda3/envs/rearrangementLatest
